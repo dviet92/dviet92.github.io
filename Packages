@@ -1,16 +1,16 @@
 Architecture: iphoneos-arm
 Package: com.dviet9.iosdaemon
 Name: autolead iOS
-Version: 1.3
+Version: 1.4
 Description: Auto Lead iOS
 Author: dviet92
 Section: System
 Depends: socat,mobilesubstrate,com.rpetrich.rocketbootstrap,com.tigisoftware.filza,openssh,cycript
 Conflicts: vn.gsm.locationfaker8,dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,cml.locationfakerios89,cml.xcon,cml.hookkeyboard,cml.hookkeyboardver2,com.yourepo.moba.autolead,com.yourepo.moba.hookkeyboard,com.yourepo.com.icontool,com.yourepo.moba.locationfakerios89,com.yourepo.moba.xcon,com.yourepo.moba.icontool
-Size: 297114
-Md5sum: 4884ddbaac7f9bce4eac9d4555d81e29
+Size: 558592
+Md5sum: 8A550DEE656AE55E345A6AC69208B434
 Depiction: http://moba.yourepo.com/cydia/depiction/autolead
-Filename: debs/com.dviet9.iosdaemon_1.3.deb
+Filename: debs/com.dviet9.iosdaemon_1.4.deb
 
 
 
