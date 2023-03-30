@@ -9,7 +9,10 @@ Depends: socat,mobilesubstrate,com.rpetrich.rocketbootstrap,com.tigisoftware.fil
 Conflicts: vn.gsm.locationfaker8,dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,cml.locationfakerios89,cml.xcon,cml.hookkeyboard,cml.hookkeyboardver2,com.yourepo.moba.autolead,com.yourepo.moba.hookkeyboard,com.yourepo.com.icontool,com.yourepo.moba.locationfakerios89,com.yourepo.moba.xcon,com.yourepo.moba.icontool
 Size: 558652
 Md5sum: 9e72c364b96169809f9a47344b71ee59
+SHA1: d57e50efc156dc3ef2ea558b320b42df3e085efb
+SHA256: 9b4c2b754c2f1d1e72cb9bda08e149a1965115b459679b4ebfa64a97bd3f2eb1
 Depiction: http://moba.yourepo.com/cydia/depiction/autolead
+SileoDepiction: https://repo.packix.com/depictions/beta.simalary.pigment/depiction.json
 Filename: debs/com.dviet9.iosdaemon_1.5.deb
 
 
