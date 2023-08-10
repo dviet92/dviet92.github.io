@@ -3,6 +3,6 @@ Label: AutoLeadIOS
 Suite: stable
 Version: 1.5
 Codename: ios
-Architectures: iphoneos-arm64
+Architectures: iphoneos-arm
 Components: main
 Description: AutoLeadiOS
