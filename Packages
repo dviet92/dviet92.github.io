@@ -18,19 +18,19 @@ Filename: debs/com.dviet9.iosdaemon_1.5.deb
 Architecture: iphoneos-arm64
 Package: com.dviet9.iosdaemon
 Name: autolead iOS
-Version: 1.6
+Version: 1.5
 Description: Auto Lead iOS
 Author: dviet92
 Section: System
 Depends: ellekit,com.tigisoftware.filza,openssh,oslog
 Conflicts: vn.gsm.locationfaker8,dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,cml.locationfakerios89,cml.xcon,cml.hookkeyboard,cml.hookkeyboardver2,com.yourepo.moba.autolead,com.yourepo.moba.hookkeyboard,com.yourepo.com.icontool,com.yourepo.moba.locationfakerios89,com.yourepo.moba.xcon,com.yourepo.moba.icontool
 Size: 471340
-Md5sum: 7634DBA01E4389C766D520CA499AC8ED
-SHA1: 6F7CE5246DEC0053126BE64804B14F4760CE1ED1
-SHA256: BD113F0F734FD0A28E8602FE2FF5E04ACD57A1563EBB76DB0F317103D893315F
+Md5sum: 1E5E93A9AC87DA77D2C8A26B8C9728C0
+SHA1: E67B568DC721AE342C69F84D56CB0E90DE35C806
+SHA256: 9D38F0CF3F4526A96FE9E9CE2C04E2E099BAA7D71097BF6F8E9490095451005F
 Depiction: http://moba.yourepo.com/cydia/depiction/autolead
 SileoDepiction: https://repo.packix.com/depictions/beta.simalary.pigment/depiction.json
-Filename: debs/com.dviet9.iosdaemon_1.6_iphoneos-arm64.deb
+Filename: debs/com.dviet9.iosdaemon_1.5_iphoneos-arm64.deb
 
 
 
