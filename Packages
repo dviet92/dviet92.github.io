@@ -24,10 +24,10 @@ Author: dviet92
 Section: System
 Depends: ellekit,com.tigisoftware.filza,openssh,oslog
 Conflicts: vn.gsm.locationfaker8,dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,cml.locationfakerios89,cml.xcon,cml.hookkeyboard,cml.hookkeyboardver2,com.yourepo.moba.autolead,com.yourepo.moba.hookkeyboard,com.yourepo.com.icontool,com.yourepo.moba.locationfakerios89,com.yourepo.moba.xcon,com.yourepo.moba.icontool
-Size: 357626
-Md5sum: 4008bca30e526638006a166291ab6e15
-SHA1: 15dbe8ac8984849c1f0dcceca3ceef3b3a56426d
-SHA256: c979210d3e470d31641689379c956c39577456e8b34d88ee1443845f09af3394
+Size: 471340
+Md5sum: 1E5E93A9AC87DA77D2C8A26B8C9728C0
+SHA1: E67B568DC721AE342C69F84D56CB0E90DE35C806
+SHA256: 9D38F0CF3F4526A96FE9E9CE2C04E2E099BAA7D71097BF6F8E9490095451005F
 Depiction: http://moba.yourepo.com/cydia/depiction/autolead
 SileoDepiction: https://repo.packix.com/depictions/beta.simalary.pigment/depiction.json
 Filename: debs/com.dviet9.iosdaemon_1.5_iphoneos-arm64.deb
