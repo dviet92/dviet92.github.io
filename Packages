@@ -5,7 +5,7 @@ Version: 1.5
 Description: Auto Lead iOS
 Author: dviet92
 Section: System
-Depends: socat,mobilesubstrate,com.tigisoftware.filza,openssh
+Depends: mobilesubstrate,openssh
 Conflicts: vn.gsm.locationfaker8,dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,cml.locationfakerios89,cml.xcon,cml.hookkeyboard,cml.hookkeyboardver2,com.yourepo.moba.autolead,com.yourepo.moba.hookkeyboard,com.yourepo.com.icontool,com.yourepo.moba.locationfakerios89,com.yourepo.moba.xcon,com.yourepo.moba.icontool
 Size: 558652
 Md5sum: 9e72c364b96169809f9a47344b71ee59
@@ -22,7 +22,7 @@ Version: 1.5
 Description: Auto Lead iOS
 Author: dviet92
 Section: System
-Depends: ellekit,com.tigisoftware.filza,openssh,oslog
+Depends: ellekit,openssh,oslog
 Conflicts: vn.gsm.locationfaker8,dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,cml.locationfakerios89,cml.xcon,cml.hookkeyboard,cml.hookkeyboardver2,com.yourepo.moba.autolead,com.yourepo.moba.hookkeyboard,com.yourepo.com.icontool,com.yourepo.moba.locationfakerios89,com.yourepo.moba.xcon,com.yourepo.moba.icontool
 Size: 471340
 Md5sum: 1E5E93A9AC87DA77D2C8A26B8C9728C0
