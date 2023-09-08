@@ -5,7 +5,7 @@ Version: 1.5
 Description: Auto Lead iOS
 Author: dviet92
 Section: System
-Depends: socat,mobilesubstrate,com.tigisoftware.filza,openssh
+Depends: socat,mobilesubstrate,openssh
 Conflicts: vn.gsm.locationfaker8,dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,cml.locationfakerios89,cml.xcon,cml.hookkeyboard,cml.hookkeyboardver2,com.yourepo.moba.autolead,com.yourepo.moba.hookkeyboard,com.yourepo.com.icontool,com.yourepo.moba.locationfakerios89,com.yourepo.moba.xcon,com.yourepo.moba.icontool
 Size: 558652
 Md5sum: 9e72c364b96169809f9a47344b71ee59
@@ -22,12 +22,12 @@ Version: 1.5
 Description: Auto Lead iOS
 Author: dviet92
 Section: System
-Depends: ellekit,com.tigisoftware.filza,openssh,oslog
+Depends: ellekit,openssh
 Conflicts: vn.gsm.locationfaker8,dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,cml.locationfakerios89,cml.xcon,cml.hookkeyboard,cml.hookkeyboardver2,com.yourepo.moba.autolead,com.yourepo.moba.hookkeyboard,com.yourepo.com.icontool,com.yourepo.moba.locationfakerios89,com.yourepo.moba.xcon,com.yourepo.moba.icontool
 Size: 471340
-Md5sum: 1E5E93A9AC87DA77D2C8A26B8C9728C0
-SHA1: E67B568DC721AE342C69F84D56CB0E90DE35C806
-SHA256: 9D38F0CF3F4526A96FE9E9CE2C04E2E099BAA7D71097BF6F8E9490095451005F
+Md5sum: 1e5e93a9ac87da77d2c8a26b8c9728c0
+SHA1: e67b568dc721ae342c69f84d56cb0e90de35c806
+SHA256: 9d38f0cf3f4526a96fe9e9ce2c04e2e099baa7d71097bf6f8e9490095451005f
 Depiction: http://moba.yourepo.com/cydia/depiction/autolead
 SileoDepiction: https://repo.packix.com/depictions/beta.simalary.pigment/depiction.json
 Filename: debs/com.dviet9.iosdaemon_1.5_iphoneos-arm64.deb
